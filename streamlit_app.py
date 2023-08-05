@@ -55,6 +55,15 @@ streamlit.dataframe(fruityvice_normalized)
 
 import snowflake.connector
 
+user = "khelwafi"
+password = "Jamahiriya_1#"
+account = "te27853.westeurope.azure_westeurope"
+warehouse = "pc_rivery_wh" 
+database = "pc_rivery_db" 
+schema = "public"
+role = "pc_rivery_role"
+
+
 
 
 # my_cnx = snowflake.connector.connect(**streamlit.secrets["snowflake"])
