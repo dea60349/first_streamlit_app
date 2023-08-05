@@ -58,7 +58,7 @@ import snowflake.connector
 [snowflake]
 user = "khelwafi"
 password = "Jamahiriya_1#"
-account = "eljsihq-te27853"
+account = "eljsihq-ga45964"
 warehouse = "pc_rivery_wh" 
 database = "pc_rivery_db" 
 schema = "public"
