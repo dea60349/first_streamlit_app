@@ -58,11 +58,11 @@ import snowflake.connector
 [snowflake]
 user = "khelwafi"
 password = "Jamahiriya_1#"
-account = "te27853"
+account = "eljsihq_te27853"
 warehouse = "pc_rivery_wh" 
 database = "pc_rivery_db" 
 schema = "public"
-role = "accountadmin"
+role = "pc_rivery_role"
 
 # role = "pc_rivery_role"
 # account = "te27853.west-europe.azure"
