@@ -67,6 +67,8 @@ role = "accountadmin"
 # role = "pc_rivery_role"
 # account = "te27853.west-europe.azure"
 # account = "te27853.westeurope.azure_westeurope"
+# account = "eljsihq-te27853"
+# account = "eljsihq-ga45964"
 
 # my_cnx = snowflake.connector.connect(**streamlit.secrets["snowflake"])
 # my_cur = my_cnx.cursor()
