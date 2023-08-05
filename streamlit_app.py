@@ -58,14 +58,14 @@ import snowflake.connector
 [snowflake]
 user = "khelwafi"
 password = "Jamahiriya_1#"
-account = "te27853.westeurope.azure_westeurope"
+account = "te27853.west-europe.azure"
 warehouse = "pc_rivery_wh" 
 database = "pc_rivery_db" 
 schema = "public"
 role = "pc_rivery_role"
 
 
-
+# account = "te27853.westeurope.azure_westeurope"
 
 # my_cnx = snowflake.connector.connect(**streamlit.secrets["snowflake"])
 # my_cur = my_cnx.cursor()
