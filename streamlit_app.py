@@ -62,8 +62,9 @@ account = "te27853"
 warehouse = "pc_rivery_wh" 
 database = "pc_rivery_db" 
 schema = "public"
-role = "pc_rivery_role"
+role = "accountadmin"
 
+# role = "pc_rivery_role"
 # account = "te27853.west-europe.azure"
 # account = "te27853.westeurope.azure_westeurope"
 
