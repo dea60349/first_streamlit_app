@@ -55,14 +55,14 @@ streamlit.dataframe(fruityvice_normalized)
 
 import snowflake.connector
 
-# [snowflake]
-# user = "khelwafi"
-# password = "Jamahiriya_1#"
-# account = "te27853.west-europe.azure"
-# warehouse = "pc_rivery_wh" 
-# database = "pc_rivery_db" 
-# schema = "public"
-# role = "pc_rivery_role"
+[snowflake]
+user = "khelwafi"
+password = "Jamahiriya_1#"
+account = "te27853.west-europe.azure"
+warehouse = "pc_rivery_wh" 
+database = "pc_rivery_db" 
+schema = "public"
+role = "pc_rivery_role"
 
 
 # role = "pc_rivery_role"
