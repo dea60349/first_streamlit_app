@@ -58,7 +58,7 @@ import snowflake.connector
 
 [snowflake]
 user = "khelwafi"
-password = "Jamahiriya_1#"
+password = "Liganto_1#"
 account = "te27853.west-europe.azure"
 warehouse = "pc_rivery_wh" 
 database = "pc_rivery_db" 
