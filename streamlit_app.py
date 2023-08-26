@@ -65,6 +65,7 @@ database = "pc_rivery_db"
 schema = "public"
 role = "accountadmin"
 
+
 # role = "pc_rivery_role"
 # account = "te27853.west-europe.azure"
 # account = "te27853.westeurope.azure_westeurope"
